@@ -1,6 +1,10 @@
 # jqc
 
-jqc is a really small script, **just one line**, made to enable `$` in the jQuery compatibility mode.
+jqc is a really small script, **just one line**, that re-enables `$` in the jQuery compatibility mode.
+
+### Note!
+
+As of January 2021 this repo is archived and no changes will be made. Read more at https://klooven.link/archive.
 
 ## Why?
 
@@ -16,7 +20,7 @@ Using jsDelivr you can combine files, so you can just combine jqc with any file 
 
 [Here](https://github.com/jsdelivr/jsdelivr#combine-multiple-files)'s how to combine files.
 
-## More
+## Extras
 
 #### Compatibility mode?
 
